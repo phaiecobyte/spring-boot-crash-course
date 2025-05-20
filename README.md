@@ -1,9 +1,6 @@
-# spring-boot-crash-course
-សួស្តីមិត្តអ្នកសិក្សាទាំងឡាយ នេះមេរៀនដែលខ្ញុំបានស្វ័យសិក្សាទៅលើ Spring Boot
-
 # Spring Boot Crash Course - Lessons Overview
 
-Welcome to your Spring Boot learning journey! Below is a suggested lesson structure. Each lesson can have its own folder with code and a README explaining concepts and exercises.
+សួស្តីមិត្តអ្នកសិក្សាទាំងឡាយ នេះមេរៀនដែលខ្ញុំបានស្វ័យសិក្សាទៅលើ Spring Boot
 
 ## Lessons
 
