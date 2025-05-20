@@ -1,2 +1,64 @@
 # spring-boot-crash-course
 សួស្តីមិត្តអ្នកសិក្សាទាំងឡាយ នេះមេរៀនដែលខ្ញុំបានស្វ័យសិក្សាទៅលើ Spring Boot
+
+# Spring Boot Crash Course - Lessons Overview
+
+Welcome to your Spring Boot learning journey! Below is a suggested lesson structure. Each lesson can have its own folder with code and a README explaining concepts and exercises.
+
+## Lessons
+
+1. **Introduction to Spring Boot**
+   - What is Spring Boot?
+   - Setting up your development environment
+
+2. **Creating Your First Spring Boot Application**
+   - Project structure
+   - Running a simple app
+
+3. **Spring Boot Annotations**
+   - Commonly used annotations and their purposes
+
+4. **RESTful Web Services**
+   - Creating REST controllers
+   - Handling HTTP requests & responses
+
+5. **Spring Boot and Databases**
+   - Connecting to a relational database
+   - JPA & Spring Data basics
+
+6. **CRUD Operations**
+   - Implementing Create, Read, Update, Delete endpoints
+
+7. **Exception Handling**
+   - Handling errors in REST APIs
+
+8. **Configuration and Profiles**
+   - application.properties/yaml
+   - Using different profiles (dev, prod, etc.)
+
+9. **Validation**
+   - Input validation with annotations
+
+10. **Dependency Injection**
+    - Understanding DI in Spring Boot
+
+11. **Security Basics**
+    - Introduction to Spring Security
+
+12. **Testing in Spring Boot**
+    - Unit and integration testing
+
+13. **Consuming REST APIs**
+    - RestTemplate and WebClient
+
+14. **Logging and Monitoring**
+    - Configuring logging
+    - Introduction to monitoring
+
+15. **Deploying Spring Boot Applications**
+    - Packaging as a jar/war
+    - Basic deployment options
+
+---
+
+Feel free to customize, add, or reorder these lessons based on your interests and progress!
