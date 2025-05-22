@@ -1,8 +1,8 @@
 # Spring Boot Crash Course - Lessons Overview
 
-សួស្តីមិត្តអ្នកសិក្សាទាំងឡាយ នេះមេរៀនដែលខ្ញុំបានស្វ័យសិក្សាទៅលើ Spring Boot
+សួស្តីមិត្តអ្នកសិក្សាទាំងឡាយ repository ត្រូវបានបង្កើតដើម្បីរក្យានូវកូដដែលបានសិក្យាទាក់ទៅនឹងភាសា java
 
-## Lessons
+## ផែនការមេរៀនសិក្សា
 
 1. **Introduction to Spring Boot**
    - What is Spring Boot?
